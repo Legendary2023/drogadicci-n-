@@ -1,0 +1,93 @@
+body{ 
+    background-color: rgb(154, 227, 160);
+    font-family: 'Times New Roman', Times, serif; 
+    color: black;
+
+     
+}
+.boton {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007BFF;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s, transform 0.3s;
+   
+}
+
+.boton:hover {
+    background-color: #0056b3;
+    transform: translateY(-2px);
+}
+
+.boton:active {
+    background-color: #004494;
+    transform: translateY(1px);
+}
+
+.h1{
+    background-color: rgb(205, 255, 80);
+    color: purple;
+    border-radius: 35%;
+    font-size: 315%;
+    text-align: center;
+}
+.p1{
+  text-align: left;
+    font-size: 27px;
+}
+
+.img-AL{
+    position:absolute;
+    top: 275px;
+    left: 850px;
+    width: 75px;
+    height: 100px;
+}
+.p2{
+    
+    text-align: center;
+    font-size: 24px;
+}
+.vid{
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    left: 300px;
+    align-items: center;
+    justify-content: center;
+}
+.p3{
+    text-align: center;
+    font-size: 24px; 
+}
+.lis{
+
+    font-size: 24px;
+    text-align: left;
+}
+.p1-1{
+    text-align: left;
+    font-size: 25px;
+    
+}
+.p1-2{
+
+    font-size: 25px;
+}
+.img-1{
+    top: 350px;
+    left: 550px;
+}
+.xd{
+    position: relative;
+    left: 950px;
+    top: -550px;
+height: 250px;
+width: 250px;
+}
+.ah-caray{
+    margin-left: 270px;
+}
